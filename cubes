@@ -1,0 +1,224 @@
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+
+
+
+("pilot seat",          0,  true, 0,        1500,   0,  0,              0,      0,      0   ),
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("light cube",          0,  true, 50,       5000,   1,  500,            0,      0,      0   ),
+("light prism",         0,  true, 50,       2500,   1,  500,            2,      1,      0   ),
+("light inner",         0,  true, 50,       3350,   1,  500,            2,      1,      0   ),
+("light tetra",         0,  true, 50,       1650,   1,  500,            2,      1,      0   ),
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("heavy cube",          0,  true, 50,       15000,  1,  500,            3,      1,      0   ),
+("heavy prism",         0,  true, 50,       7500,   1,  500,            3,      1,      0   ),
+("heavy inner",         0,  true, 50,       10050,  1,  500,            3,      1,      0   ),
+("heavy tetra",         0,  true, 50,       4950,   1,  500,            3,      1,      0   ),
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("windshield cube",     0,  true, 50,       5000,   3,  500,            8,      2,      0   ),
+("windshield prism",    0,  true, 50,       2500,   3,  500,            8,      2,      0   ),
+("windshield inner",    0,  true, 50,       3350,   3,  500,            8,      2,      0   ),
+("windshield tetra",    0,  true, 50,       1650,   3,  500,            8,      2,      0   ),
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("armored cube",        1,  true, 88,       6000,   1,  1000,           10,     5,      0   ),
+("armored cube",        2,  true, 136,      7000,   1,  2700,           40,     10,     0   ), #TP missing
+("armored cube",        3,  true, 203,      8000,   1,  7290,           105,    15,     6   ),
+("armored cube",        4,  true, 291,      9000,   1,  19680,          235,    20,     7   ),
+("armored cube",        5,  true, 402,      10000,  1,  53000,          515,    30,     9   ),
+("armored cube",        6,  true, 533,      11000,  1,  143000,         1020,   45,     12  ),
+("armored cube",        7,  true, 676,      12000,  1,  387000,         2090,   70,     14  ),
+("armored cube",        8,  true, 820,      13000,  1,  1046000,        4059,   110,    18  ),
+("armored cube",        9,  true, 948,      14000,  1,  2824000,        7227,   180,    22  ),
+("armored cube",        10, true, 1043,     15000,  1,  7626000,        14284,  290,    28  ),
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("armored prism",       1,  true, 88,       3000,   1,  1000,           10,     5,      0   ),
+("armored prism",       2,  true, 136,      3500,   1,  2700,           40,     10,     0   ), #TP missing
+("armored prism",       3,  true, 203,      4000,   1,  7290,           105,    15,     6   ),
+("armored prism",       4,  true, 291,      4500,   1,  19680,          235,    20,     7   ),
+("armored prism",       5,  true, 402,      5000,   1,  53000,          515,    30,     9   ),
+("armored prism",       6,  true, 533,      5500,   1,  143000,         1020,   45,     12  ),
+("armored prism",       7,  true, 676,      6000,   1,  387000,         2090,   70,     14  ),
+("armored prism",       8,  true, 820,      6500,   1,  1046000,        4059,   110,    18  ),
+("armored prism",       9,  true, 948,      7000,   1,  2824000,        7227,   180,    22  ),
+("armored prism",       10, true, 1043,     7500,   1,  7626000,        14284,  290,    28  ),
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("armored inner",       1,  true, 88,       4002,   1,  1000,           10,     5,      0   ),
+("armored inner",       2,  true, 136,      4690,   1,  2700,           40,     10,     0   ), #TP missing
+("armored inner",       3,  true, 203,      5360,   1,  7290,           105,    15,     6   ),
+("armored inner",       4,  true, 291,      6030,   1,  19680,          235,    20,     7   ),
+("armored inner",       5,  true, 402,      6700,   1,  53000,          515,    30,     9   ),
+("armored inner",       6,  true, 533,      7370,   1,  143000,         1020,   45,     12  ),
+("armored inner",       7,  true, 676,      8040,   1,  387000,         2090,   70,     14  ),
+("armored inner",       8,  true, 820,      8710,   1,  1046000,        4059,   110,    18  ),
+("armored inner",       9,  true, 948,      9380,   1,  2824000,        7227,   180,    22  ),
+("armored inner",       10, true, 1043,     10005,  1,  7626000,        14284,  290,    28  ),
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("armored tetra",       1,  true, 88,       1980,   1,  1000,           10,     5,      0   ),
+("armored tetra",       2,  true, 136,      2310,   1,  2700,           40,     10,     0   ), #TP missing
+("armored tetra",       3,  true, 203,      2640,   1,  7290,           105,    15,     6   ),
+("armored tetra",       4,  true, 291,      2970,   1,  19680,          235,    20,     7   ),
+("armored tetra",       5,  true, 402,      3330,   1,  53000,          515,    30,     9   ),
+("armored tetra",       6,  true, 533,      3630,   1,  143000,         1020,   45,     12  ),
+("armored tetra",       7,  true, 676,      3960,   1,  387000,         2090,   70,     14  ),
+("armored tetra",       8,  true, 820,      4290,   1,  1046000,        4059,   110,    18  ),
+("armored tetra",       9,  true, 948,      4620,   1,  2824000,        7227,   180,    22  ),
+("armored tetra",       10, true, 1043,     4950,   1,  7626000,        14284,  290,    28  ),
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("wheel",               1,  true, 120,      0,      20, 18000,          0,      0,      0   ),
+("wheel",               2,  true, 214,      0,      21, 56700,          20,     265,    12  ),
+("wheel",               3,  true, 434,      0,      22, 160000,         35,     685,    0   ), #TP missing
+("wheel",               4,  true, 801,      0,      23, 453000,         50,     1555,   0   ), #TP missing
+("wheel",               5,  true, 1372,     0,      24, 1275000,        75,     3385,   0   ), #TP missing
+("wheel",               6,  true, 2200,     0,      25, 3587000,        115,    6685,   0   ), #TP missing
+("wheel",               7,  true, 3319,     0,      26, 10073000,       180,    12435,  0   ), #TP missing
+("wheel",               8,  true, 4723,     0,      27, 28243000,       300,    24195,  58  ),
+("wheel",               9,  true, 6348,     0,      28, 79080000,       500,    43070,  0   ), #TP missing
+("wheel",               10, true, 8058,     0,      29, 221142000,      825,    78560,  0   ), #TP missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("wheel steering",      1,  true, 120,      0,      21, 18900,          0,      0,      0   ),
+("wheel steering",      2,  true, 214,      0,      22, 56700,          20,     265,    12  ),
+("wheel steering",      3,  true, 434,      0,      23, 160000,         35,     685,    0   ), #TP missing
+("wheel steering",      4,  true, 801,      0,      24, 453000,         50,     1555,   0   ), #TP missing
+("wheel steering",      5,  true, 1372,     0,      25, 1275000,        75,     3385,   0   ), #TP missing
+("wheel steering",      6,  true, 2200,     0,      26, 3587000,        115,    6685,   0   ), #TP missing
+("wheel steering",      7,  true, 3319,     0,      27, 10073000,       180,    12435,  0   ), #TP missing
+("wheel steering",      8,  true, 4723,     0,      28, 28243000,       300,    24195,  58  ),
+("wheel steering",      9,  true, 6348,     0,      29, 79080000,       500,    43070,  0   ), #TP missing
+("wheel steering",      10, true, 8058,     0,      30, 221142000,      825,    78560,  0   ), #TP missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("aerofoil",            5,  true, 2059,     0,      24, 1275000,        4062,   90,     30  ),
+("aerofoil",            6,  true, 3300,     0,      25, 3587000,        8022,   140,    37  ),
+("aerofoil",            7,  true, 4979,     0,      26, 10073000,       0,      0,      46  ), #TP missing
+("aerofoil",            8,  true, 7085,     0,      27, 28243000,       29034,  360,    68  ),
+("aerofoil",            9,  true, 9522,     0,      28, 79080000,       0,      0,      72  ), #TP missing
+("aerofoil",            10, true, 12087,    0,      29, 221142000,      94272,  985,    0   ),
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("rudder",              5,  true, 2059,     0,      21, 1116000,        3859,   86,     30  ),
+("rudder",              6,  true, 3300,     0,      22, 3157000,        7621,   126,    37  ),
+("rudder",              7,  true, 4979,     0,      23, 8911000,        14176,  204,    46  ),
+("rudder",              8,  true, 7085,     0,      24, 25105000,       27528,  342,    68  ),
+("rudder",              9,  true, 9522,     0,      25, 70607000,       49100,  565,    72  ),
+("rudder",              10, true, 12087,    0,      26, 198266000,      89558,  936,    0   ), #TP missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("armored helium",      4,  true, 291,      0,      12, 236000,         1354,   30,     0   ), #TP missing
+("armored helium",      6,  true, 533,      0,      14, 2009000,        4974,   75,     25  ),
+("armored helium",      8,  true, 820,      0,      16, 16737000,       0,      0,      42  ), #RP GC missing
+("armored helium",      10, true, 1043,     0,      18, 137261000,      11985,  290,    0   ),
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("thruster",            1,  true, 0,        0,      10, 10000,          0,      0,      0   ), #costs missing
+("thruster",            2,  true, 161,      0,      11, 29700,          292,    25,     0   ), #TP&mass missing
+("thruster",            3,  true, 326,      0,      12, 87480,          754,    35,     0   ), #TP&mass missing
+("thruster",            4,  true, 601,      0,      13, 255880,         1711,   55,     0   ), #TP&mass missing
+("thruster",            5,  true, 1029,     0,      14, 744020,         3724,   85,     0   ), #TP&mass missing
+("thruster",            6,  true, 1650,     0,      15, 2152000,        7354,   125,    0   ), #TP&mass missing
+("thruster",            7,  true, 2489,     0,      16, 6199000,        13679,  200,    0   ), #TP&mass missing
+("thruster",            8,  true, 3542,     0,      17, 17783000,       26615,  330,    58  ), #mass missing
+("thruster",            9,  true, 4761,     0,      18, 50837000,       47377,  545,    72  ), #mass missing (TP might be wrong)
+("thruster",            10, true, 6044,     0,      19, 144886000,      86416,  905,    88  ), #mass missing (TP might be wrong)
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("hover blade",         2,  true, 214,      5000,   21, 56700,          247,    20,     0   ), #TP missing
+("hover blade",         3,  true, 434,      7500,   22, 160380,         583,    35,     0   ), #TP missing
+("hover blade",         4,  true, 801,      7500,   23, 452710,         1150,   50,     0   ), #TP missing
+("hover blade",         5,  true, 1372,     10000,  24, 1275600,        3554,   80,     0   ), #TP missing
+("hover blade",         6,  true, 2200,     10000,  25, 3587000,        7019,   120,    0   ), #TP missing
+("hover blade",         7,  true, 3319,     12500,  26, 10073000,       13057,  190,    0   ), #TP missing
+("hover blade",         8,  true, 4723,     12500,  27, 28243000,       25405,  315,    58  ),
+("hover blade",         9,  true, 6348,     15000,  28, 79080000,       45224,  525,    0   ), #TP missing
+("hover blade",         10, true, 8058,     15000,  29, 221142000,      82488,  865,    0   ), #TP missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("walker leg",          7,  true, 4979,     0,      40, 15497000,       0,      0,      0   ), #costs missing
+("walker leg",          8,  true, 7085,     0,      42, 43933000,       0,      0,      0   ), #costs missing
+("walker leg",          9,  true, 9522,     0,      44, 124269000,      0,      0,      0   ), #costs missing
+("walker leg",          10, true, 12087,    0,      46, 350777000,      0,      0,      0   ), #costs missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("caterpillar tracks",  3,  true, 0,        0,      34, 247860,         0,      0,      0   ),# todo all prices are missing
+("caterpillar tracks",  4,  true, 0,        0,      36, 708590,         0,      0,      0   ),# todo all prices are missing
+("caterpillar tracks",  5,  true, 0,        0,      38, 2019480,        0,      0,      0   ),# todo all prices are missing
+("caterpillar tracks",  6,  true, 0,        0,      40, 5739560,        0,      0,      0   ),# todo all prices are missing
+("caterpillar tracks",  7,  true, 0,        0,      42, 16271660,       0,      0,      0   ),# todo all prices are missing
+("caterpillar tracks",  8,  true, 0,        0,      44, 46025550,       0,      0,      0   ),# todo all prices are missing
+("caterpillar tracks",  9,  true, 0,        0,      46, 129917590       0,      0,      0   ),# todo all prices are missing
+("caterpillar tracks",  10, true, 0,        0,      48, 366028680       0,      0,      0   ),# todo all prices are missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("tesla blade",         8,  true, 0,        0,      22, 23012780,       0,      0,      0   ),# todo all prices are missing
+("tesla blade",         9,  true, 0,        0,      24, 67783090,       0,      0,      0   ),# todo all prices are missing
+("tesla blade",         10, true, 0,        0,      26, 198265530,      0,      0,      0   ),# todo all prices are missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("enemy radar",         1,  true, 10,       0,      10, 10000,          55,     10,     1   ),
+("enemy radar",         5,  true, 2200,     0,      15, 797160,         1612,   30,     3   ),
+("enemy radar",         9,  true, 8058,     0,      20, 56485910,       25988,  166,    5   ),
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("radar jammer",        3,  true, 434,      0,      24, 174960,         567,    20,     0   ), #TP missing
+("radar jammer",        5,  true, 1372,     0,      26, 1381750,        2912,   10,     0   ), #TP missing
+("radar jammer",        7,  true, 3319,     0,      28, 10847770,       10877,  85,     25  ),
+("radar jammer",        9,  true, 6348,     0,      30, 84728860,       0,      0,      0   ), #costs missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("radar receiver",      5,  true, 1372,     0,      26, 1381750,        3235,   50,     0   ), #TP missing
+("radar receiver",      7,  true, 3319,     0,      28, 10847770,       12085,  95,     25  ),
+("radar receiver",      9,  true, 6348,     0,      30, 84728860,       42210,  250,    0   ), #TP missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("alignment rectifier", 1,  true, 180,      0,      10, 10000,          100,    20,     0   ), #TP missing
+("alignment rectifier", 5,  true, 2059,     0,      14, 744020,         4730,   110,    0   ), #TP missing
+("alignment rectifier", 9,  true, 9522,     0,      18, 50837320,       60240,  750,    42  ),
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("front mount smg",     1,  true, 300,      0,      10, 10000,          0,      0,      0   ), #TP missing
+("front mount smg",     2,  true, 534,      0,      12, 32400,          329,    25,     0   ), #TP missing
+("front mount smg",     3,  true, 1084,     0,      14, 102060,         842,    40,     0   ), #TP missing
+("front mount smg",     4,  true, 2003,     0,      16, 314930,         1908,   55,     0   ), #TP missing
+("front mount smg",     5,  true, 3431,     0,      18, 956590,         4605,   115,    0   ), #TP missing
+("front mount smg",     6,  true, 5501,     0,      20, 2869780,        8172,   135,    0   ), #TP missing
+("front mount smg",     7,  true, 8298,     0,      22, 8523250,        15197,  215,    0   ), #TP missing
+("front mount smg",     8,  true, 11809,    0,      24, 25104850,       0,      0,      0   ), #costs missing
+("front mount smg",     9,  true, 15871,    0,      26, 73431680,       0,      0,      0   ), #costs missing
+("front mount smg",     10, true, 20146,    0,      28, 213516730,      0,      0,      0   ), #costs missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("top mount smg",       1,  true, 300,      0,      10, 10000,          100,    20,     0   ), #TP missing
+("top mount smg",       2,  true, 534,      0,      12, 32400,          365,    30,     0   ), #TP missing
+("top mount smg",       3,  true, 1084,     0,      14, 102060,         935,    50,     0   ), #TP missing
+("top mount smg",       4,  true, 2003,     0,      16, 314930,         2120,   70,     0   ), #TP missing
+("top mount smg",       5,  true, 3431,     0,      18, 956590,         4605,   115,    0   ), #TP missing
+("top mount smg",       6,  true, 5501,     0,      20, 2869780,        9080,   170,    0   ), #TP missing
+("top mount smg",       7,  true, 8298,     0,      22, 8523250,        16885,  270,    0   ), #TP missing
+("top mount smg",       8,  true, 11809,    0,      24, 25104850,       32830,  450,    63  ),
+("top mount smg",       9,  true, 15871,    0,      26, 73431680,       58420,  745,    0   ), #TP missing
+("top mount smg",       10, true, 20146,    0,      28, 213516730,      106525, 1235,   0   ), #TP missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("plasma launcher",     3,  true, 1084,     0,      18, 131220,         982,    55,     18  ),
+("plasma launcher",     4,  true, 2003,     0,      20, 393660,         2226,   80,     24  ),
+("plasma launcher",     5,  true, 3431,     0,      22, 1169170,        4835,   125,    41  ),
+("plasma launcher",     6,  true, 5501,     0,      24, 3443740,        9534,   185,    51  ),
+("plasma launcher",     7,  true, 8298,     0,      26, 10072930,       17729,  295,    51  ),
+("plasma launcher",     8,  true, 11809,    0,      28, 29288990,       34472,  490,    67  ),
+("plasma launcher",     9,  true, 15871,    0,      30, 84728860,       61341,  820,    78  ),
+("plasma launcher",     10, true, 20146,    0,      32, 244019120,      0,      0,      96  ), #costs missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("rail cannon",         4,  true, 2003,     0,      20, 393660,         2332,   85,     24  ),
+("rail cannon",         5,  true, 3431,     0,      22, 1169170,        5066,   135,    32  ),
+("rail cannon",         6,  true, 5501,     0,      24, 3443740,        9988,   205,    41  ), #TP missing
+("rail cannon",         7,  true, 8298,     0,      26, 10072930,       18574,  320,    0   ), #TP missing
+("rail cannon",         8,  true, 11809,    0,      28, 29288990,       0,      0,      63  ), #costs missing
+("rail cannon",         9,  true, 15871,    0,      30, 84728860,       0,      0,      0   ), #costs missing
+("rail cannon",         10, true, 20146,    0,      32, 244019120,      0,      0,      0   ), #costs missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("nanotech disruptor",  6,  true, 5501,     0,      20, 2869780,        0,      0,      0   ), #costs missing
+("nanotech disruptor",  7,  true, 8298,     0,      22, 8523250,        0,      0,      0   ), #costs missing
+("nanotech disruptor",  8,  true, 11809,    0,      24, 25104850,       0,      0,      0   ), #costs missing
+("nanotech disruptor",  9,  true, 15871,    0,      26, 73431680,       0,      0,      0   ), #costs missing
+("nanotech disruptor",  10, true, 20146,    0,      28, 213516730,      0,      0,      0   ), #costs missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("electroplate r",      3,  true, 203,      0,      28, 204120,         980,    55,     0   ), #TP missing
+("electroplate r",      4,  true, 291,      0,      32, 629860,         2225,   75,     0   ), #TP missing
+("electroplate r",      5,  true, 402,      0,      36, 1913190,        4835,   120,    0   ), #TP missing
+("electroplate r",      6,  true, 533,      0,      40, 5739560,        9535,   180,    0   ), #TP missing
+("electroplate r",      7,  true, 676,      0,      44, 17046500,       17730,  285,    46  ),
+("electroplate r",      8,  true, 820,      0,      48, 50209700,       34470,  475,    0   ), #TP missing
+("electroplate r",      9,  true, 948,      0,      52, 146863360,      61340,  780,    0   ), #TP missing
+("electroplate r",      10,  true, 1043,    0,      56, 427033460,      111850, 1295,   0   ), #TP missing
+#NAME                   TIER ACTIVE ARMOR   MASS [g] CPU RANKING*1000   RP      GC      TP
+("electroplate l",      3,  true, 203,      0,      28, 204120,         980,    55,     0   ), #TP missing
+("electroplate l",      4,  true, 291,      0,      32, 629860,         2225,   75,     0   ), #TP missing
+("electroplate l",      5,  true, 402,      0,      36, 1913190,        4835,   120,    0   ), #TP missing
+("electroplate l",      6,  true, 533,      0,      40, 5739560,        9535,   180,    0   ), #TP missing
+("electroplate l",      7,  true, 676,      0,      44, 17046500,       17730,  285,    46  ),
+("electroplate l",      8,  true, 820,      0,      48, 50209700,       34470,  475,    0   ), #TP missing
+("electroplate l",      9,  true, 948,      0,      52, 146863360,       61340,  780,   0   ), #TP missing
+("electroplate l",      10,  true, 1043,    0,      56, 427033460,      111850, 1295,   0   )  #TP missing
